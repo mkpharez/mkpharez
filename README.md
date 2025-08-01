@@ -1,6 +1,6 @@
 # Mobile Software Developer & Microsoft Azure DevOps Engineer 
 
-#/## Hi there 👋
+### Hi there 👋
 
 
 **I am ### Eng Muigai Kihingo aka mkpharez at Utah Magartee Software Solutions** 
