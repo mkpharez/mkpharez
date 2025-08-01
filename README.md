@@ -3,8 +3,8 @@
 ### Hi there 👋
 
 
-**I am ### Eng Muigai Kihingo aka mkpharez at Utah Magartee Software Solutions** 
-Mkpharez is a ✨ _an eXperienced_ mobile Engineer ✨ in UI/UX Android frame-works, leveraging the powerful and robust Jetpack compose frameworks in android and Kotlin Motiplattorm ToolKit.
+**I am Eng Muigai Kihingo aka mkpharez at Utah Magartee Software Solutions** 
+Mkpharez is ✨ _an eXperienced_ mobile Engineer ✨ in UI/UX Android frame-works, leveraging the powerful and robust Jetpack compose Library in Android and Kotlin Motiplattorm ToolKit.
 
 
 Among my popular repositories include:
