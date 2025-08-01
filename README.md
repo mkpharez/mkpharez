@@ -1,9 +1,13 @@
-### Hi there 👋
+# Mobile Software Developer & Microsoft Azure DevOps Engineer 
 
-<!--
-**mkpharez/mkpharez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#/## Hi there 👋
 
-Here are some ideas to get you started:
+
+**I am ### Eng Muigai Kihingo aka mkpharez at Utah Magartee Software Solutions** 
+Mkpharez is a ✨ _an eXperienced_ mobile Engineer ✨ in UI/UX Android frame-works, leveraging the powerful and robust Jetpack compose frameworks in android and Kotlin Motiplattorm ToolKit.
+
+
+Among my popular repositories include:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +17,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+For more premium project, please contact me via my contact details.
