@@ -78,6 +78,8 @@ Robust CI/CD pipelines using Azure DevOps for streamlined mobile application dep
 - **Email:** [Contact Me](mailto:contact@mkpharez.dev)
 - **LinkedIn:** [Connect with me](https://linkedin.com/in/mkpharez)
 - **Portfolio:** [View Full Portfolio](https://mkpharez.github.io/mkpharez)
+- **Extra-Milestones-Activities:** [Organic Tech-Farming](https://mkpharez.github.io/mkpharez)
+
 
 ---
 
